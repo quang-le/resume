@@ -1,5 +1,6 @@
 <?php ?>
-<html lang="en">
+
+<html lang="fr">
 <head>
     <title>Quang Son Le - Junior Web Developer</title>
     
@@ -22,12 +23,12 @@
 
 <body>
     <header>
-        <a href="francais.html" id="version">Version française</a>
+        <a href="index.html" id="version">English version</a>
     </header>
     <div class="wrapper">
         <div class="sidebar-wrapper">
             <div class="profile-container">
-                <img class="profile" src="assets/images/profil3.png" alt="" />
+                <img class="profile" src="assets/images/profil3.png" alt="my profile picture" />
                 <h1 class="name">Quang Son Le</h1>
                 <h3 class="tagline">Junior Web Developer</h3>
             </div><!--//profile-container-->
@@ -43,35 +44,35 @@
                 </ul>
             </div><!--//contact-container-->
             <div class="education-container container-block">
-                <h2 class="container-block-title">Education</h2>
+                <h2 class="container-block-title">Formation</h2>
                 <div class="item">
-                    <h4 class="degree">Master in Romance Philology</h4>
+                    <h4 class="degree">Master en Langues et Littératures Romanes</h4>
                     <h5 class="meta">Université Libre de Bruxelles</h5>
                     <div class="time">1998-2003</div>
                 </div><!--//item-->
                 <div class="item">
-                    <h4 class="degree">Post-Master in Linguistics</h4>
+                    <h4 class="degree">D.E.A. en Linguistique</h4>
                     <h5 class="meta">Université Libre de Bruxelles</h5>
                     <div class="time">2003 - 2004</div>
                 </div><!--//item-->
             </div><!--//education-container-->
             
             <div class="languages-container container-block">
-                <h2 class="container-block-title">Languages</h2>
+                <h2 class="container-block-title">Langues</h2>
                 <ul class="list-unstyled interests-list">
-                    <li>French <span class="lang-desc">(Native)</span></li>
-                    <li>English <span class="lang-desc">(Fluent)</span></li>
-                    <li>Dutch <span class="lang-desc">(Intermediate)</span></li>
-                    <li>German <span class="lang-desc">(Beginner)</span></li>
+                    <li>Français <span class="lang-desc">(Langue Maternelle)</span></li>
+                    <li>Anglais <span class="lang-desc">(Courant)</span></li>
+                    <li>Néerlandais <span class="lang-desc">(Intermediaire)</span></li>
+                    <li>Allemand <span class="lang-desc">(Débutant)</span></li>
                 </ul>
             </div><!--//interests-->
             
             <div class="interests-container container-block">
-                <h2 class="container-block-title">Interests</h2>
+                <h2 class="container-block-title">Centres d'intérêt</h2>
                 <ul class="list-unstyled interests-list">
-                    <li>Hiking</li>
-                    <li>Video Games</li>
-                    <li>Robots, real or fictional</li>
+                    <li>Randonnée</li>
+                    <li>Jeux Vidéo</li>
+                    <li>Robots, réels ou fictifs</li>
                 </ul>
             </div><!--//interests-->
             
@@ -80,14 +81,14 @@
         <div class="main-wrapper">
             
             <section class="section summary-section">
-                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-user"></i></span>Career Profile</h2>
+                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-user"></i></span>Profil professionnel</h2>
                 <div class="summary">
-                    <p>I've worked in the finance industry, then as a social worker and then as coordinator of a youth organization. These various experiences have given me a lot of versatility. In my 7 years of work for NGOs, I have developed solid Project and Team management skills, but also the need to work on more tangible tasks and project. That's why I have decided to chase after my old dream of creating video games, and became a learner at BeCode in May 2018. Since then I have taken part to a hackathon, joined an internal team developing an AI and will soon work on with an external client.</p>
+                    <p>J'ai travaillé dans la finance, puis comme travailleur social, ensuite comme coordinateur d'une Organisation de Jeunesse. Ces expériences diverses m'ont appris à m'adapter à des environnements variés. Mes 7 années de travail dans le milieu associatif m'ont permis de développer des compétences solides en gestion de projet et gestion d'équipe. Le besoin de travailler sur des tâches et des projets plus tangibles m'ont poussé à changer de secteur. C'est pourquoi j'ai décidé de poursuivre mon vieux rêve de créer des jeux vidéo. Je suis donc devenu apprenant à BeCode en mai 2018. Depuis, j'ai pris part un hackathon, rejoint un projet de développement d'IA en interne, et, sous peu, je travailleria pour un client externe.</p>
                 </div><!--//summary-->
             </section><!--//section-->
             
             <section class="section experiences-section">
-                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-briefcase"></i></span>Experiences</h2>
+                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-briefcase"></i></span>Expérience</h2>
                 
                 <div class="item">
                     <div class="meta">
@@ -95,28 +96,28 @@
                             <h3 class="job-title">Junior Web Developer</h3>
                             <div class="time">2018 - Present</div>
                         </div><!--//upper-row-->
-                        <div class="company"><a href="https://www.becode.org" target="_blank">BeCode, Brussels</a></div>
+                        <div class="company"><a href="https://www.becode.org" target="_blank">BeCode, Bruxelles</a></div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p> Learn the main technolgies used in Web Development, like HTML5, CSS, JavaScript, PHP, mySQL...</p> 
-                        <p> Through self-learning and peer learning, discover other technologies, like Blockchain, Docker or machine learning; </p>   
-                        <p> Take part in hackathons, meetups or other external events; </p>
-                        <p> Actively promote BeCode by speaking at info sessions or other promotional events. </p>
+                        <p> Apprendre les principales technologies utilisées en développement web: HTML5, CSS, JavaScript, PHP, mySQL...</p> 
+                        <p> Découvrir d'autres technologies en auto-didacte ou en "peer-learning": Blockchain, Docker, machine learning; </p>   
+                        <p> Participer à des hackathons, meetups ou autres événements externes; </p>
+                        <p> Promouvoir activement BeCode en participant à activités promotionnelles (ex: séances d'info). </p>
                     </div><!--//details-->
                 </div><!--//item-->
                 
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h3 class="job-title">Coordinator</h3>
+                            <h3 class="job-title">Coordinateur</h3>
                             <div class="time">2017 - 2018</div>
                         </div><!--//upper-row-->
-                        <div class="company"><a href="https://www.javva.org" target="_blank">JAVVA asbl, Brussels</a></div>
+                        <div class="company"><a href="https://www.javva.org" target="_blank">JAVVA asbl, Bruxelles</a></div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p>Coordinate a team of 4 workers in setting up international youth exchanges, and volunteer workcamps;</p>
-                        <p>Manage the budget and accounting,including grant applications;</p> 
-                        <p>Represent the association in networks at national and european level.</p> 
+                        <p> Coordonner une équipe de 4 travailleurs dans l'organisation d'échanges de jeunes et de chantiers de volontariat internationaux;</p>
+                        <p> Gérer le budget et la comptabilité, y compris les demandes de subsides;</p> 
+                        <p> Representer l'association dans les réseaux, au nivea national et européen.</p> 
 
                         
                     </div><!--//details-->
@@ -125,37 +126,37 @@
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h3 class="job-title">Social Community Worker</h3>
+                            <h3 class="job-title">Travailleur Social Communautaire</h3>
                             <div class="time">2011 - 2016</div>
                         </div><!--//upper-row-->
-                        <div class="company"><a href="https://fr-fr.facebook.com/Logement-et-Harmonie-Sociale-asbl-1397901620479731/" target="_blank">Logement et Harmonie Sociale, Brussels</a></div>
+                        <div class="company"><a href="https://fr-fr.facebook.com/Logement-et-Harmonie-Sociale-asbl-1397901620479731/" target="_blank">Logement et Harmonie Sociale, Bruxelles</a></div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p>Social Community work in 3 disadvantaged neighbourhoods: stimulate active participation through citizen-led projects;</p> 
-                        <p>Day-to-day accounting and grant management; </p>   
-                        <p>Representative of a network of associations at the regional level. </p>  
+                        <p>Travail social communataire dans 3 quartiers défavorisés: stimuation de participation citoyenne via des projets portés par les habitants;</p> 
+                        <p>Comptabilité journalière et demandes de subsides; </p>   
+                        <p>Representant d'un réseau d'associations auprès du pouvoir régional. </p>  
                     </div><!--//details-->
                 </div><!--//item-->
                 
             </section><!--//section-->
             
             <section class="section projects-section">
-                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-archive"></i></span>Projects</h2>
+                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-archive"></i></span>Projets</h2>
               <!--  <div class="intro">
                     <p>Except for Dorothy and RiverBot, all projects listed below are .</p>
                 </div><!--//intro-->
                 <div class="item">
-                    <span class="project-title"><a href="riverbot.html" target="_blank">RiverBot</a></span> - <span class="project-tagline">A chatbot that helps users find information about rivers and flooding. Developed during <a href="http://www.hackinthewoods.be/" target="_blank">Hack in the Woods</a> for <a href="http://www.contratrivierehaine.com/" target="_blank">Contrat de Rivière Haine</a></span>
+                    <span class="project-title"><a href="riverbot.html" target="_blank">RiverBot</a></span> - <span class="project-tagline">A chatbot qui aide l'utilisateur à trouver des informations liées au rivières (inondations, etc.). Developpé durant <a href="http://www.hackinthewoods.be/" target="_blank">Hack in the Woods</a>  pour le  <a href="http://www.contratrivierehaine.com/" target="_blank">Contrat de Rivière Haine</a></span>
                     
                 </div><!--//item-->
                 <div class="item">
                     <span class="project-title"><a href="https://dorothycares.ovh" target="_blank">Dorothy</a></span> - 
-                    <span class="project-tagline">An assistant designed to help learners at BeCode find resources about various techs and administrative information related to their cursus </span>
+                    <span class="project-tagline">Une assistante destinée à aider les apprenants de BeCode à trouver des ressources sur les technologies abordées et des informations administratives liées à leur cursus </span>
                 </div><!--//item-->
             </section><!--//section-->
             
             <section class="skills-section section">
-                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-rocket"></i></span>Skills &amp; Proficiency</h2>
+                <h2 class="section-title"><span class="icon-holder"><i class="fas fa-rocket"></i></span>Compétences</h2>
                 <div class="skillset">        
                     <div class="item">
                         <h3 class="level-title">HTML5 &amp; CSS</h3>
