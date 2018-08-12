@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php ?>
 <html lang="en">
 <head>
     <title>Quang Son Le - Junior Web Developer</title>
