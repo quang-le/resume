@@ -145,7 +145,7 @@
                     <p>Except for Dorothy and RiverBot, all projects listed below are .</p>
                 </div><!--//intro-->
                 <div class="item">
-                    <span class="project-title"><a href="riverbot.html" target="_blank">RiverBot</a></span> - <span class="project-tagline">A chatbot that helps users find information about rivers and flooding. Developed during <a href="http://www.hackinthewoods.be/" target="_blank">Hack in the Woods</a> for <a href="http://www.contratrivierehaine.com/" target="_blank">Contrat de Rivière Haine</a></span>
+                    <span class="project-title"><a href="http://riverbot.tk/" target="_blank">RiverBot</a></span> - <span class="project-tagline">A chatbot that helps users find information about rivers and flooding. Developed during <a href="http://www.hackinthewoods.be/" target="_blank">Hack in the Woods</a> for <a href="http://www.contratrivierehaine.com/" target="_blank">Contrat de Rivière Haine</a></span>
                     
                 </div><!--//item-->
                 <div class="item">
