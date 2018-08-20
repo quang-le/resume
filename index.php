@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Responsive HTML5 Resume/CV Template for Developers">
+    <meta name="description" content="Quang Son Le - Junior Web Developer">
     <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
     <link rel="shortcut icon" href="favicon.ico">  
     <!-- Google Font -->
@@ -177,7 +177,7 @@
 						    <div class="progress-bar theme-progress-bar" role="progressbar" style="width: 55%" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100"></div>
 						</div>                                 
                     </div><!--//item-->
-                    
+
                     <div class="item">
                         <h3 class="level-title">SQL</h3>
                         <div class="progress level-bar">
