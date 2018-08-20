@@ -179,6 +179,13 @@
                     </div><!--//item-->
                     
                     <div class="item">
+                        <h3 class="level-title">SQL</h3>
+                        <div class="progress level-bar">
+						    <div class="progress-bar theme-progress-bar" role="progressbar" style="width: 50%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+						</div>                                 
+                    </div><!--//item-->
+                    
+                    <div class="item">
                         <h3 class="level-title">Docker</h3>
                         <div class="progress level-bar">
 							    <div class="progress-bar theme-progress-bar" role="progressbar" style="width: 15%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
